@@ -12,7 +12,7 @@ HealVisuals is a data analytics and visualization software that allows users to 
 To get started with HealVisuals, you'll need to have Python 3.x installed on your machine. You can then follow these steps:
 - Clone the HealVisuals repository to your local machine.
 - Install the required dependencies by running pip install -r requirements.txt.
-- Run the HealVisuals app by running python app.py.
+- Run the HealVisuals app by running python main.py.
 
 ### Contributing
 If you'd like to contribute to HealVisuals, please fork the repository and submit a pull request. We welcome contributions of all kinds, including bug fixes, feature requests, and documentation improvements.
