@@ -1,4 +1,1 @@
-dash
-plotly 
-dash_bootstrap_components
-pandas
+
