@@ -11,6 +11,8 @@ data = pd.read_csv('assets/kaggle_data.csv')
 numerical_cols = data.select_dtypes(include='number').columns
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+
+@app.route('/')
 app.title = "HealVisuals: Discovering Health Through Data"
 
 app.layout = html.Div([
